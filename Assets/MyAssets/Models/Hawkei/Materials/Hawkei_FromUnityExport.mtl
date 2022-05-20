@@ -1,0 +1,154 @@
+# Blender 3.1.0 MTL File: 'Hawkei_FromUnityExportFBX.blend'
+# www.blender.org
+
+newmtl uploads_files_1921862_HawkPMV_Antenna
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.273585 0.264551 0.264551
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl uploads_files_1921862_HawkPMV_Chrome
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  ..\..\..\..\TAFE\Unity\OculusInteractive_v4\Assets\MyFiles\Models\Materials\Textures\Grill.png
+
+newmtl uploads_files_1921862_HawkPMV_Grill
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  ..\..\..\..\TAFE\Unity\OculusInteractive_v4\Assets\MyFiles\Models\Materials\Textures\Grill.png
+
+newmtl uploads_files_1921862_HawkPMV_Headlight
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  ..\..\..\..\TAFE\Unity\OculusInteractive_v4\Assets\MyFiles\Models\Materials\Textures\texHawkPMV.png
+
+newmtl uploads_files_1921862_HawkPMV_Material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  ..\..\..\..\TAFE\Unity\OculusInteractive_v4\Assets\MyFiles\Models\Materials\Textures\Utility_tex2.png
+
+newmtl uploads_files_1921862_HawkPMV_Material_000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  ..\..\..\..\TAFE\Unity\OculusInteractive_v4\Assets\MyFiles\Models\Materials\Textures\Utility_tex2.png
+
+newmtl uploads_files_1921862_HawkPMV_Material_001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  ..\..\..\..\TAFE\Unity\OculusInteractive_v4\Assets\MyFiles\Models\Materials\Textures\Utility_tex2.png
+
+newmtl uploads_files_1921862_HawkPMV_Material_002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.938679 0.938679
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  ..\..\..\..\TAFE\Unity\OculusInteractive_v4\Assets\MyFiles\Models\Materials\Textures\Utility_tex2.png
+
+newmtl uploads_files_1921862_HawkPMV_Material_003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl uploads_files_1921862_HawkPMV_Material_006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  ..\..\..\..\TAFE\Unity\OculusInteractive_v4\Assets\MyFiles\Models\Materials\Textures\Utility_tex2.png
+
+newmtl uploads_files_1921862_HawkPMV_Paint
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  ..\..\..\..\TAFE\Unity\OculusInteractive_v4\Assets\MyFiles\Models\Materials\Textures\texHawkPMV.png
+
+newmtl uploads_files_1921862_HawkPMV_RearLight
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  ..\..\..\..\TAFE\Unity\OculusInteractive_v4\Assets\MyFiles\Models\Materials\Textures\texHawkPMVback.psd
+
+newmtl uploads_files_1921862_HawkPMV_Rim
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  ..\..\..\..\TAFE\Unity\OculusInteractive_v4\Assets\MyFiles\Models\Materials\Textures\Utility_tex2.png
+
+newmtl uploads_files_1921862_HawkPMV_Tyre
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.009434 0.008677 0.008677
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump  -bm 1.000000 ..\..\..\..\TAFE\Unity\OculusInteractive_v4\Assets\MyFiles\Models\Materials\Textures\Utility_Normal.png
